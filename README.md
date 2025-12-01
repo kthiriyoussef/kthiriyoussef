@@ -1,15 +1,24 @@
 <!-- Animated Title -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&height=80&lines=Hey+there+👋;I'm+Mohamed+Youssef+Kthiri!;Software+Engineering+Student;Java+|+Spring+Boot+|+Angular+|+Symfony;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Hey+there+👋;I'm+Mohamed+Youssef+Kthiri!;Software+Engineering+Student;Java+|+Spring+Boot+|+Angular+|+Symfony;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
-<!-- Updated Banner (reliable hosted SVG) -->
+<!-- Alternative: Simple animated text without external service -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hey%20there%20👋-Hello!-blue?style=for-the-badge" />
+  <br />
+  <img src="https://img.shields.io/badge/I'm%20Mohamed%20Youssef%20Kthiri!-Software%20Engineering%20Student-green?style=for-the-badge" />
+  <br />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-gradient.svg" width="700" height="2" alt="divider" />
 </p>
-
-
 ---
 
 ## ✨ About Me
