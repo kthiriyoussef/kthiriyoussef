@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there+👋;+I'm+Mohamed+Youssef+Kthiri!;Software+Engineering+Student;Java+|+Spring+Boot+|+Angular+|+Symfony;Welcome+to+my+GitHub!&center=true&size=28" />
 </h1>
 
-<!-- Banner / GIF -->
-
+<!-- Updated Banner (reliable hosted SVG) -->
 <p align="center">
-  <img src="https://i.imgur.com/q5L0tPb.gif" width="700" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-gradient.svg" width="700" />
 </p>
+
 
 ---
 
