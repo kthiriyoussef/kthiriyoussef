@@ -1,12 +1,12 @@
 <!-- Animated Title -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there+👋;+I'm+Mohamed+Youssef+Kthiri!;Software+Engineering+Student;Java+|+Spring+Boot+|+Angular+|+Symfony;Welcome+to+my+GitHub!&center=true&size=28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&height=80&lines=Hey+there+👋;I'm+Mohamed+Youssef+Kthiri!;Software+Engineering+Student;Java+|+Spring+Boot+|+Angular+|+Symfony;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <!-- Updated Banner (reliable hosted SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-gradient.svg" width="700" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-gradient.svg" width="700" height="2" alt="divider" />
 </p>
 
 
